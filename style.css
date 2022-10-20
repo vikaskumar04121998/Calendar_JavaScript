@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    font-size: x-large;
+    align-items: center;
+}
+
+.date {
+    font-size: x-large;
+    width: fit-content;
+    border-radius: 8px;
+}
+
+#month {
+    width: fit-content;
+    font-size: x-large;
+}
+
+#year {
+    width: fit-content;
+    font-size: x-large;
+}
+
+#btn {
+    width: fit-content;
+    font-size: x-large;
+}
